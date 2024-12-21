@@ -21,7 +21,7 @@
 }
 html{
 
-    font-size: 60.5%;
+    font-size: 65.5%;
     overflow-x:hidden ;
 }
 body{
@@ -56,10 +56,10 @@ body.background{
     transform: scale(1.1);
 }
 .navbar a{
-    font-size:5rem;
+    font-size:4rem;
     color: white;
-    margin-left: 4rem;
-    font-weight: 500;
+    margin-left: 3rem;
+    font-weight: 400;
     transition: 0.3s ease-in-out;
     border-bottom: 3px solid transparent;
 
@@ -373,7 +373,7 @@ span{
 }
 .footer ul li a:hover{
     color: var(--third-bg-color);
-    border-radius: 3px solid var(--third-bg-color);
+    border-radius: 3px solid black;
 }.footer ul li{
     display: inline-block;
     padding: 0;
